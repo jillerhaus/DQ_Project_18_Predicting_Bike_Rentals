@@ -1,4 +1,4 @@
-# DataQuest Project 17: Predicting Bike Rentals Using Machine Learning
+# DataQuest Project 18: Predicting Bike Rentals Using Machine Learning
 
 This is the 18th project I completed in the "Data Analyst in Python" and "Data Scientist in Python" paths from Dataquest. In this project a dataset containing historic data on bike rentals in Washington D.C. was used to train and test a linear regression model, a decision tree model and a random forest model to try to predict the number of rentals.
 
